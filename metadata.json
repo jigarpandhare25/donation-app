@@ -1,0 +1,8 @@
+{
+  "name": "ShareBite: AI Food Rescue",
+  "description": "A platform connecting food donors with those in need, featuring AI-powered freshness validation and impact tracking to reduce food waste.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
