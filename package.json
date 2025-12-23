@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "sharebite:-ai-food-rescue",
   "private": true,
   "version": "0.0.0",
@@ -14,11 +15,36 @@
     "@google/genai": "^1.34.0",
     "recharts": "^3.6.0",
     "react-router-dom": "^7.11.0"
+=======
+  "name": "sharebite-ai-food-rescue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "homepage": "https://jigarpandhare25.github.io/donation-app",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@google/genai": "^1.34.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-router-dom": "^7.11.0",
+    "recharts": "^3.6.0"
+>>>>>>> 57fdf1e (Initial commit)
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
     "@vitejs/plugin-react": "^5.0.0",
+<<<<<<< HEAD
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
+=======
+    "gh-pages": "^6.1.1",
+    "typescript": "~5.8.2",
+    "vite": "^6.4.1"
+>>>>>>> 57fdf1e (Initial commit)
   }
 }
