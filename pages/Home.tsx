@@ -66,7 +66,7 @@ const Home: React.FC = () => {
           </div>
           <div className="bg-slate-100 rounded-[3rem] aspect-video overflow-hidden shadow-inner flex items-center justify-center border-8 border-white">
             <img 
-  src="/Gemini_Generated_Image_cjvvj0cjvvj0cjvv (1)-ezremove.png" 
+  src="Gemini_Generated_Image_cjvvj0cjvvj0cjvv (1)-ezremove.png" 
   className="w-32 h-32"
 />
           </div>
