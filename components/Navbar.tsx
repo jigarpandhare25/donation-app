@@ -21,7 +21,7 @@ const Navbar: React.FC = () => {
             <i className="fas fa-utensils text-lg"></i>
           </div>
           <span className="text-xl font-bold tracking-tight bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
-            ShareBite
+            DonEATe
           </span>
         </Link>
 
